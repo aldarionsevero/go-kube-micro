@@ -14,3 +14,7 @@ To run in a container, you can use environment variables to specify options like
 Use go-data-dep.yaml to deploy to Kubernetes like so:
 
 `kubectl create -f go-data-dep.yaml`
+
+The same for device
+
+`kubectl create -f go-device-dep.yaml`
